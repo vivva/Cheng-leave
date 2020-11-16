@@ -8,3 +8,11 @@
 1. Love yourself
 2. Young forever
 
+`int x = 0;`
+
+```kotlin
+fun foo() = "hello kotlin"
+fun bar() {
+    println(foo())
+}
+```
